@@ -6,7 +6,7 @@
     align-items: center;
     margin-bottom: 20px;
     background: $color-3;
-    border-radius: 20px;
+    border-radius: 0px;
     padding: 10px;
     color: $white;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.452);
@@ -46,6 +46,7 @@
     border-radius: 10px;
     cursor: pointer;
     transition: 0.2s;
+    color: #fff;
 
     &:hover {
       background: $color-1;
